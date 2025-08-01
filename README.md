@@ -1,2 +1,2 @@
-# Admin-Dashboard-with-CSS-Grid-Layout-and-Theme-Switching
-**Short Description:**  A modern **Admin Dashboard** built using **CSS Grid Layout** for clean, responsive structure. It includes a **theme switcher** (light/dark mode) for better user experience and accessibility. The layout typically features a sidebar, header, main content area, and cards/widgets styled with consistent design.
+<img width="1915" height="920" alt="image" src="https://github.com/user-attachments/assets/c14c66b7-965e-444a-b096-c36648c1b47c" />
+<img width="1919" height="926" alt="image" src="https://github.com/user-attachments/assets/2f9e2e27-3600-4083-ac2f-f9c7314a91ca" />
